@@ -1,7 +1,7 @@
 # CryptoClustering
   Module 19 Challenge Homework Assignment
   
-  CREATED BY MICHAEL ROBERTS
+    CREATED BY MICHAEL ROBERTS
 
 This repository contains the following:
 
