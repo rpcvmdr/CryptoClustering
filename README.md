@@ -1,6 +1,8 @@
 # CryptoClustering
   Module 19 Challenge Homework Assignment
+  
   CREATED BY MICHAEL ROBERTS
+
 This repository contains the following:
 
 A. A Resources folder containing the file 'crypto_market_data.csv'. This file contains the data that is loaded into 
