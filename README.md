@@ -19,6 +19,5 @@ B. The jupyter file, included at the top level of this repository, contains all 
   7. Cluster cryptocurrencies with K-means using the PCA data.
   8. Visualize and compare the results of Elbow line charts and group cluster scatter plot charts using hvPlot.
 
-![image](https://github.com/rpcvmdr/CryptoClustering/assets/123688361/1d411068-d8ef-4dcf-8803-2ac89fece509)
 
 
