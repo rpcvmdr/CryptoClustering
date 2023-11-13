@@ -10,11 +10,15 @@ the Jupyter file: 'Crypto_Clustering.ipynb'
 
 B. The jupyter file, included at the top level of this repository, contains all the code to implement the requirements of homework assignment including:
 
-Import the csv file and prepare the data.
-Scale the data using StandardScaler.
-Find the best value for k using the elbow method.
-Cluster cryptocurrencies with K-means using the original scaled data.
-Perform PCA to reduce the features to three principal components.
-Find the best value for k using the PCA data.
-Cluster cryptocurrencies with K-means using the PCA data.
-Visualize and compare the results of Elbow line charts and group cluster scatter plot charts using hvPlot.
+  1. Import the csv file and prepare the data.
+  2. Scale the data using StandardScaler.
+  3. Find the best value for k using the elbow method.
+  4. Cluster cryptocurrencies with K-means using the original scaled data.
+  5. Perform PCA to reduce the features to three principal components.
+  6. Find the best value for k using the PCA data.
+  7. Cluster cryptocurrencies with K-means using the PCA data.
+  8. Visualize and compare the results of Elbow line charts and group cluster scatter plot charts using hvPlot.
+
+![image](https://github.com/rpcvmdr/CryptoClustering/assets/123688361/1d411068-d8ef-4dcf-8803-2ac89fece509)
+
+
